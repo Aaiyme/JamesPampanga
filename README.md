@@ -6,7 +6,7 @@ I’m James Pampanga a dedicated student pursuing expertise in front-end develop
 ## Education
 - **BS Information Technology**
   - New Era University
-  - 2023-Present
+  - 2024-Present
 
 ## Certifications
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=647EE36CBB722302AA8C8E6699847717AB61A89EE62E9471301F03ECA613C53C)
