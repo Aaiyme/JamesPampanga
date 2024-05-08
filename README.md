@@ -14,6 +14,9 @@ I’m James Pampanga a dedicated student pursuing expertise in front-end develop
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7F3D2F99DB2EB5F948AE71BE257FD5A87EB4044B1731616458134011D4C9AE4)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/bc61d3c5ccb34d1d8caf50535931ab3a)
 - Office 365 Power Tools and PowerBi Certification - UNION BANK OF THE PHILIPPINES
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/994cf332501e4281a71bc1918ed98281)
+  
+
 
 ## Skill Sets
 - **Programming:** Java, JavaScript, HTML, CSS, Reactjs
